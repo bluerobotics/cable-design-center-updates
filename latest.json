@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-test.5",
-  "tag": "v0.1.0-test.5",
-  "releaseUrl": "https://github.com/bluerobotics/cable-design-center/releases/tag/v0.1.0-test.5",
-  "publishedAt": "2026-11-11T00:58:29Z",
+  "version": "0.1.0-test.6",
+  "tag": "v0.1.0-test.6",
+  "releaseUrl": "https://github.com/bluerobotics/cable-design-center/releases/tag/v0.1.0-test.6",
+  "publishedAt": "2026-11-11T01:56:29Z",
   "prerelease": true,
-  "notes": "- Part files are now `.cable` files. Older `.cable.json` files still open; when you save one, the app offers to convert it to `.cable` in place, keeping its runs folder.\n- Double-click a `.cable` file to open it in Cable Design Center. You can also drag one onto the window.\n- Custom materials, dielectric presets, and shapes now travel with the file. If a file uses entries you don't have, a notice offers **Add to my library**; until then they apply to that design only.",
+  "notes": "See the release page for the installer and the full changelog.",
   "stable": null
 }
