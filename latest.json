@@ -5,6 +5,6 @@
   "releaseUrl": "https://github.com/bluerobotics/cable-design-center/releases/tag/v0.1.0-test.6",
   "publishedAt": "2026-11-11T01:56:29Z",
   "prerelease": true,
-  "notes": "See the release page for the installer and the full changelog.",
+  "notes": "- New jacket and insulation materials: LSZH, CSPE (Hypalon), PEEK and TPC-ET (Hytrel).\n- New foams with their own density, so buoyancy uses the foam rather than the solid polymer: foamed FEP and a buoyant closed-cell PUR jacket.\n- New strength members and fillers: UHMWPE (Dyneema), Vectran, cotton, water-blocking yarn and talc release powder. The yarns also come as air-loaded filler presets.\n- New tapes: water-blocking (swellable) tape and paper tape.\n- New conductor metals for drawings and DC resistance: copper-clad aluminum, stainless steel and galvanized steel.\n- The example project (Help > Open Example Project) has an updated EX-1001 layout with fresh simulation results.",
   "stable": null
 }
