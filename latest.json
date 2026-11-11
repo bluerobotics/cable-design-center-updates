@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-test.3",
-  "tag": "v0.1.0-test.3",
-  "releaseUrl": "https://github.com/bluerobotics/cable-design-center/releases/tag/v0.1.0-test.3",
-  "publishedAt": "2026-11-06T00:00:00Z",
+  "version": "0.1.0-test.4",
+  "tag": "v0.1.0-test.4",
+  "releaseUrl": "https://github.com/bluerobotics/cable-design-center/releases/tag/v0.1.0-test.4",
+  "publishedAt": "2026-11-10T23:27:48Z",
   "prerelease": true,
-  "notes": "Initial test build.",
+  "notes": "See the release page for the installer and the full changelog.",
   "stable": null
 }
